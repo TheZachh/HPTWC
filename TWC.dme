@@ -1,0 +1,108 @@
+// DM Environment file for Icu.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+#define FILE_DIR Icons
+#define FILE_DIR Icons/bases
+#define FILE_DIR Icons/items/wearables
+#define FILE_DIR Icons/items/wearables/scarves
+#define FILE_DIR Icons/items/wearables/wigs
+#define FILE_DIR Icons/items/wearables/shoes
+#define FILE_DIR Icons/items/wearables/wands
+#define FILE_DIR Icons/items/wearables/hats
+#define FILE_DIR Icons/items/wearables/brooms
+#define FILE_DIR Icons/items
+#define FILE_DIR Icons/items/food
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include <audeuro\inireader2\INI Reader 2\INI Reader 2.dme>
+#include <deadron\basecamp\BaseCamp.dme>
+#include <rotem12\colormatrix\ColorMatrix.dme>
+#include <stephen001\eventscheduling\Events\Events.dme>
+#include <stephen001\log4dm\log4dm.dme>
+#include <theodis\pathfinder\Pathfinder.dme>
+#include <theodis\priorityqueue\PriorityQueue.dme>
+#include <theodis\quicksort\QuickSort.dme>
+#include "potinf.dmf"
+#include "world.dmp"
+#include "Code\_Consts.dm"
+#include "Code\Actionbar.dm"
+#include "Code\Animagus.dm"
+#include "Code\Announce.dm"
+#include "Code\areas.dm"
+#include "Code\Arial7pt.dm"
+#include "Code\Auction.dm"
+#include "Code\Books.dm"
+#include "Code\Changelog.dm"
+#include "Code\Class.dm"
+#include "Code\commands.dm"
+#include "Code\Conjuration.dm"
+#include "Code\Cronicles.dm"
+#include "Code\Daily Prophet.dm"
+#include "Code\DB.dm"
+#include "Code\DJ.dm"
+#include "Code\dmifontplus.dm"
+#include "Code\Drag and Drop.dm"
+#include "Code\Dueling.dm"
+#include "Code\enchanting.dm"
+#include "Code\EXP.dm"
+#include "Code\extra.dm"
+#include "Code\Flying.dm"
+#include "Code\Food Sample.dm"
+#include "Code\Furniture.dm"
+#include "Code\GMcodes.dm"
+#include "Code\GMEvents.dm"
+#include "Code\Green Man.dm"
+#include "Code\HGM Day Night system.dm"
+#include "Code\Hogwarts Entrance.dm"
+#include "Code\HogwartsDoorsandWalls.dm"
+#include "Code\HTML.dm"
+#include "Code\input.dm"
+#include "Code\items.dm"
+#include "Code\Joke Shop Items.dm"
+#include "Code\Level Code.dm"
+#include "Code\Login.dm"
+#include "Code\longapparate.dm"
+#include "Code\Matchmaking.dm"
+#include "Code\Movement.dm"
+#include "Code\NPCs.dm"
+#include "Code\ParticleEmitter.dm"
+#include "Code\Pets.dm"
+#include "Code\PM.dm"
+#include "Code\Potions.dm"
+#include "Code\Prom.dm"
+#include "Code\Protego.dm"
+#include "Code\Quidditch.dm"
+#include "Code\RandomEvents.dm"
+#include "Code\Region.dm"
+#include "Code\RemovedStuff.dm"
+#include "Code\resize.dm"
+#include "Code\Revoke.dm"
+#include "Code\Shops.dm"
+#include "Code\signs.dm"
+#include "Code\Spellbook.dm"
+#include "Code\Spells.dm"
+#include "Code\SQL.dm"
+#include "Code\StatusEffects.dm"
+#include "Code\swapmaps.dm"
+#include "Code\Teach.dm"
+#include "Code\time.dm"
+#include "Code\Trade.dm"
+#include "Code\verbs.dm"
+#include "Code\world.topic.dm"
+#include "Code\AI\enemies drops.dm"
+#include "Code\AI\enemies.dm"
+#include "Code\Quests\QuestNPCs.dm"
+#include "Code\Quests\Quests.dm"
+#include "Code\Quests\QuestScripts.dm"
+#include "Code\Reputation\Clans.dm"
+#include "Code\Reputation\Guilds.dm"
+#include "Triwizard\Triwizard.dm"
+// END_INCLUDE
