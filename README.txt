@@ -6,13 +6,11 @@ The Wizards' Chronicles is a 2D RPG written with the BYOND engine
 
 License
 --------------------------------------------------------------------------------
-The Wizards' Chronicles is Copyright © 2014 Duncan Fairley, and is licensed
+The Wizards' Chronicles is Copyright Â© 2005 - 2019 RagnarokHGM (ZH), and is licensed
 under the GNU Affero General Public License, version 3. The full license is
 included in the distribution. For an easier understanding of what the license
 entails, see:
 http://www.tldrlegal.com/license/gnu-affero-general-public-license-v3-(agpl-3.0)
-If you have any questions about the license, email
-murrawhip at wizardschronicles.com
 
 
 Requirements
